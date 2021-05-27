@@ -24,7 +24,7 @@ the copyright notice on the files.
 See [the license file](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/master/LICENSE.md) for more
 information.
 
-## Authors
+## CREDIT To Author
 
 * **[Krypton (@kkrypt0nn)](https://github.com/kkrypt0nn)**
 
@@ -118,9 +118,9 @@ Me or other people will take their time to answer and help you.
 We use [SemVer](http://semver.org) for versioning. For the versions available, see
 the [tags on this repository](https://github.com/kkrypt0nn/Python-Discord-Bot-Template/tags).
 
-## Bots who used this template
+## CONTACT ME ON DISCORD
 
-*DM Krypton#7331 to get yourself in this list*
+*🅷🅸🆃🅼🅰🅽#5360*
 
 ## License
 
